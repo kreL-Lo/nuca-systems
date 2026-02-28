@@ -1,0 +1,17 @@
+{
+  "name": "Nuca Systems",
+  "short_name": "Nuca Systems",
+  "description": "Enterprise OpenText ECM & YouTube media consulting. Frankfurt, Dublin, Vilnius.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e17",
+  "theme_color": "#1565c0",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
